@@ -1,2 +1,2 @@
 # WEB-PRACTICE
-eb practice
+web practice
